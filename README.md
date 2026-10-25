@@ -12,11 +12,12 @@ I'm an IT graduate seeking entry-level opportunities in the technology industry.
 
 ## Featured Projects
 
-### Digital Portfolio
-A personal portfolio website showcasing my profile and work.
+### Tharun Portfolio
+A personal portfolio website showcasing my profile, skills, and projects.
 
-- **Technology:** HTML
-- **Repository:** [digital-portfolio](https://github.com/tharun17-web/digital-portfolio)
+- **Technologies:** HTML, CSS
+- **Repository:** [Tharun Portfolio](https://github.com/tharun17-web/tharun-portfolio)
+
 
 ### MarkPilot-AI
 An AI-powered University of Madras marksheet analyzer.
