@@ -1,3 +1,8 @@
+
+
+<p align="center">
+  <img src="github-header.png" alt="Tharun B. - Developer Portfolio Header" width="100%">
+</p>
 # Tharun B.
 
 **IT Graduate | Java | Web Development | Cloud Computing**
